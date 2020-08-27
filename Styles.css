@@ -63,11 +63,25 @@ background-size: cover;
     width: 65%;
     height: 80%;
 }
-.title{
+.title2{
     font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
 }
 p{
     font: 24px;
     line-height: 50px;
+}
+.SpacePods-area, .Reservations-area{
+    background:#000000;
+    color: white;
+}
+.OurMission-area{
+    padding-top: 85px;
+}
+.SpaceMissions-area{
+    padding-top: 15px;
+}
+html{
+    scroll-behavior: smooth;
 }
