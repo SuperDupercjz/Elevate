@@ -85,3 +85,26 @@ p{
 html{
     scroll-behavior: smooth;
 }
+.price{
+    background-color:rgb(12, 169, 231);
+    font-size: 33px;
+    margin-bottom: 20px;
+}
+.floatleft{
+    float: left;
+    padding-left: 50px;
+}
+.imgbox{
+    margin-top: 20px;
+
+}
+.boxsize1{
+    height: 230px;
+    width:300px;
+    float: left;
+    box-sizing: content-box;
+    padding-left: 45px;
+}
+.boxofpics{
+    margin-left: 60px;
+}
