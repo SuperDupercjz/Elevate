@@ -108,3 +108,10 @@ html{
 .boxofpics{
     margin-left: 60px;
 }
+.bgworld{
+    font-size:100px ;
+    padding-top: 170px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.116);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
