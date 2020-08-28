@@ -86,7 +86,7 @@ html{
     scroll-behavior: smooth;
 }
 .price{
-    background-color:rgb(12, 169, 231);
+    background-color: rgb(12, 169, 231);
     font-size: 33px;
     margin-bottom: 20px;
 }
@@ -114,4 +114,17 @@ html{
     text-align: center;
     color: rgba(255, 255, 255, 0.116);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.footer{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    justify-content:  space-around;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    height: 10px;
+    background-color:  rgb(12, 169, 231);
 }
